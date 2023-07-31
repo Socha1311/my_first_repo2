@@ -3,3 +3,5 @@
 
 Sophie-Charlotte Schwab
 Chasseuse de pokémons
+
+17/08/1989
