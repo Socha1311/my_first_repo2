@@ -7,4 +7,4 @@ Chasseuse de pokémons
 
 17/08/1989
 
-Paris
+Paris 12
